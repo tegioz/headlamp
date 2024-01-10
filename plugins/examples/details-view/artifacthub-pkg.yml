@@ -1,0 +1,26 @@
+# Artifact Hub package metadata file
+version: 0.1.0
+name: details-view
+category: skip-prediction
+displayName: Details View
+createdAt: "2024-01-10T10:00:00Z"
+description: Shows how to make custom sections and actions in particular details views
+homeURL: "https://headlamp.dev"
+license: Apache-2.0
+keywords:
+  - headlamp
+  - plugin
+links:
+  - name: Plugins docs
+    url: "https://headlamp.dev/docs/latest/development/plugins/"
+  - name: Source
+    url: "https://github.com/headlamp-k8s/headlamp/tree/main/plugins/examples/details-view/src"
+install: |
+  Installation instructions in markdown format go here :)
+recommendations:
+  - url: "https://artifacthub.io/packages/helm/headlamp/headlamp"
+annotations:
+  headlamp/plugin/archive-url: "https://headlamp.dev/sample-plugin-url"
+  headlamp/plugin/archive-checksum: "sha256:123456..."
+  headlamp/plugin/version-compat: ">=1.2.3"
+  headlamp/plugin/distro-compat: "in-cluster,web,docker-desktop"

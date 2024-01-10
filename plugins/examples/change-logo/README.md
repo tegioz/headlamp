@@ -2,7 +2,7 @@
 
 This shows you how to change the Headlamp logo.
 
-![screenshot of the logo being changed](../../../docs/development/plugins/images/change-logo.png)
+![screenshot of the logo being changed](https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/development/plugins/images/change-logo.png)
 
 To run the plugin:
 

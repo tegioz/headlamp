@@ -2,7 +2,7 @@
 
 Shows how to make custom sections and actions in particular details views. For example add a section at the bottom of the config map view, along with an action button to the top of the view.
 
-![screenshot of the custom details view section and action button](../../../docs/development/plugins/images/details-view.png)
+![screenshot of the custom details view section and action button](https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/development/plugins/images/details-view.png)
 
 To run the plugin:
 

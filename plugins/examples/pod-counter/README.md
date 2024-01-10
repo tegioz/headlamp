@@ -3,7 +3,7 @@
 This example plugin shows how to put something in the appbar at the top of Headlamp. Also how to
 use the K8s API to count the number of pods in the cluster.
 
-![screenshot of the logo being changed](../../../docs/development/plugins/images/podcounter_screenshot.png)
+![screenshot of the logo being changed](https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/development/plugins/images/podcounter_screenshot.png)
 
 To run the plugin:
 

@@ -2,7 +2,7 @@
 
 This example plugin shows how to override the default available "cluster-chooser" button.
 
-![screenshot of the cluster chooser button](../../../docs/development/plugins/images/cluster-chooser.png)
+![screenshot of the cluster chooser button](https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/development/plugins/images/cluster-chooser.png)
 
 To run the plugin with [node.js](https://nodejs.org/en/) installed:
 

@@ -2,7 +2,7 @@
 
 Add menus when Headlamp is running as an app.
 
-![screenshot of the custom details view section and action button](../../../docs/development/plugins/images/app-menus.png)
+![screenshot of the custom details view section and action button](https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/development/plugins/images/app-menus.png)
 
 To run the plugin:
 

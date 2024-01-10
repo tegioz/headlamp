@@ -4,7 +4,7 @@ This example plugin places two items with the title "Feedback" in the
 sidebar; one as a top-level entry, and the other is placed under the
 cluster item. It also removes the Namespaces sidebar item and route.
 
-![screenshot of the side bar being changed](../../../docs/development/plugins/images/sidebar.png)
+![screenshot of the side bar being changed](https://raw.githubusercontent.com/headlamp-k8s/headlamp/main/docs/development/plugins/images/sidebar.png)
 
 To run the plugin:
 
