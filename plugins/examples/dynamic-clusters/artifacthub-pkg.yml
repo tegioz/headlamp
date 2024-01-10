@@ -1,7 +1,8 @@
 # Artifact Hub package metadata file
+# Reference: https://github.com/artifacthub/hub/blob/master/docs/metadata/artifacthub-pkg.yml
 version: 0.1.0
 name: dynamic-clusters
-category: skip-prediction
+category: monitoring-logging
 displayName: Dynamic Clusters
 createdAt: "2024-01-10T10:00:00Z"
 description: Configure (or update) a cluster dynamically that can then be used throughout Headlamp
